@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lakshmipathiraju Pericharla!
+# 👋 Hi, Hello, I'm Lakshmipathiraju Pericharla!
 
 ## 🚀 About Me
 I am a **Results-driven Business & Data Analyst** with 4+ years of experience in **data analysis, reporting, executive communication, and project management**. I specialize in **SDLC methodologies (Agile, Waterfall, Kanban)** and have a strong background in **requirement gathering, documentation (FRD, BRD, SRS, RTM, user stories)**, and data visualization.
